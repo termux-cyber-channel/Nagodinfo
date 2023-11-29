@@ -21,7 +21,7 @@ print(banner)
 import requests
 
 url = "https://app.mynagad.com:20002/api/user/check-user-status-for-log-in"
-number = input("𝗡𝗢𝗚𝗢𝗗 𝗡𝗨𝗠𝗕 : ")  # Assuming you get the phone number as input
+number = input("𝗡A𝗚𝗢𝗗 𝗡𝗨𝗠𝗕 : ")  # Assuming you get the phone number as input
 
 headers = {
     "X-KM-User-AspId": "100012345612345",
